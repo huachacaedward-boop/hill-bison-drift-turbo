@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flores para Yulisa",
+      "hasCanvas": false,
+      "bodyTextLen": 147,
+      "bodyTextHash": "99879c1d4046debe471c4013fcf0e9339a019ceceb94dab0c92f3931b2b69e60",
+      "bodyTextPrefix": "Flores amarillas para Yulisa 21 DE SEPTIEMBRE Para Yulisa Un ram",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flores para Yulisa",
+      "hasCanvas": false,
+      "bodyTextLen": 147,
+      "bodyTextHash": "99879c1d4046debe471c4013fcf0e9339a019ceceb94dab0c92f3931b2b69e60",
+      "bodyTextPrefix": "Flores amarillas para Yulisa 21 DE SEPTIEMBRE Para Yulisa Un ram",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
